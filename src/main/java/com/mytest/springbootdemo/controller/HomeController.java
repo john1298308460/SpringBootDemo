@@ -10,5 +10,6 @@ public class HomeController {
     @RequestMapping("/")
     public String home(){
         return "我的第一个自动化部署项目！";
+
     }
 }
