@@ -9,7 +9,7 @@ public class HomeController {
 
     @RequestMapping("/")
     public String home(){
-        return "Jenkins + Github + 内网穿透的持续集成部署项目。HelloWorld！";
+        return "Jenkins + Github + 11111内网穿透的持续集成部署项目。";
 
     }
 }
